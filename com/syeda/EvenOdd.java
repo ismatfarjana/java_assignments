@@ -1,3 +1,5 @@
+package com.syeda;
+
 import java.util.Scanner;
 
 public class EvenOdd {
