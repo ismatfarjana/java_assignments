@@ -7,7 +7,7 @@ public class IsoscelesTriangle {
         Scanner input = new Scanner(System.in);
         System.out.println("Area of IsoscelesTriangle calculator");
         System.out.println("-------------------------");
-        System.out.println("Enter a height: ");
+        System.out.println("Enter  a height: ");
         float height = (float) input.nextInt();
         System.out.println("Enter a base: ");
         float base = (float) input.nextInt();

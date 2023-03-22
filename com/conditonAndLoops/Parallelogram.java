@@ -1,2 +1,4 @@
-package com.conditonAndLoops;public class Parallelogram {
+package com.conditonAndLoops;
+
+public class Parallelogram {
 }
